@@ -1,13 +1,9 @@
 ---
 layout: default
-title: Technical Assistance
+title: Technical Assistance & Consulting Services 
 ---
-On November 1, 2014, the Massachusetts Department of Developmental Services (DDS), in conjunction with the Association of Developmental Disabilities Providers and The ARC of Massachusetts, released the [Blueprint for Success: Employing Individuals with Intellectual Disabilities in Massachusetts](http://www.mass.gov/eohhs/docs/dmr/blueprint-for-success.pdf). The blueprint outlines a plan to implement [Employment First](http://www.mass.gov/eohhs/gov/laws-regs/dds/policies/s-employment-first-policy-2010-2.html) in Massachusetts.
-To assist providers with the transformation from center based work to work in the community, the ICI, with funding from DDS, has established the Employment First Technical Assistance Center. Through this center, the ICI provides training, technical assistance, and access to a wide range of tools and resources that support the blueprint.  
+Employment First Missouri is a collaborative initiative between the <a href="https://dmh.mo.gov/dev-disabilities">Missouri Division of Developmental Disabilities (DD)</a> and the <a href="https://www.communityinclusion.org/">Institute for Community Inclusion (ICI) </a>at the University of Massachusetts Boston. Under this initiative, ICI provides technical assistance (consultation services), training, and access to a wide range of tools and resources to service providers and staff to advance community employment for individuals in the state of Missouri who have intellectual and developmental disabilities. 
 
+Since the Employment First Missouri initiative was formed in 2018, a wide variety of agencies across Missouri have received technical assistance to develop expanded capacity to provide integrated employment supports. Technical assistance is provided by ICI staff who live and work in Missouri, under the direction of David Hoff, who has provided technical assistance across the United States and internationally, and with the full support of ICI. 
+If you are a provider who contracts with Missouri Department of Mental Health, Division of Developmental Disabilities to provide employment services, and are interested in receiving technical assistance, please fill out this <a href="https://umassboston.co1.qualtrics.com/jfe/form/SV_0r2NIq9NNxoEuep">inquiry form</a> and a team member will contact you to discuss your needs.
 
-Over the past year, more than 18 agencies that recently offered center-based employment supports have received 
-technical assistance to develop expanded capacity to provide integrated employment supports, as well as community-based day services. Technical assistance is provided by ICI staff as well as a cadre of qualified consultants.
-
-
-A limited amount of technical assistance may be available for additional providers. Interested agencies should contact David Hoff at [david.hoff@umb.edu](mailto:david.hoff@umb.edu) or 617-287-4308 to discuss their needs and the application process.

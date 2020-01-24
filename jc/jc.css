@@ -57,7 +57,7 @@ html {
   
   /* Large devices (desktops, 992px and up) */
   @media (min-width: 992px) { 
-    ul.navbar-nav > li {min-width: 200px; border:2px solid white;}
+    ul.navbar-nav > li {min-width: 360px; border:2px solid white;}
     
   }
 
